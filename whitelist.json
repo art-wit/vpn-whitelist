@@ -1,0 +1,123 @@
+{
+  "version": "1",
+  "updated": "2026-04-25",
+  "groups": [
+    {
+      "name": "telegram",
+      "enabled": true,
+      "domains": [
+        "t.me",
+        "telegram.me",
+        "telegram.org",
+        "web.telegram.org",
+        "webk.telegram.org",
+        "webz.telegram.org",
+        "api.telegram.org",
+        "core.telegram.org",
+        "cdn.telegram.org",
+        "cdn1.telegram.org",
+        "cdn2.telegram.org",
+        "cdn3.telegram.org",
+        "cdn4.telegram.org",
+        "telegram-cdn.org",
+        "telegra.ph"
+      ]
+    },
+    {
+      "name": "openai",
+      "enabled": true,
+      "domains": [
+        "openai.com",
+        "chatgpt.com",
+        "auth.openai.com",
+        "cdn.openai.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "sora.com"
+      ]
+    },
+    {
+      "name": "anthropic",
+      "enabled": true,
+      "domains": [
+        "claude.ai",
+        "anthropic.com",
+        "api.anthropic.com",
+        "cdn.anthropic.com",
+        "files.anthropic.com",
+        "statsig.anthropic.com"
+      ]
+    },
+    {
+      "name": "youtube",
+      "enabled": true,
+      "domains": [
+        "youtube.com",
+        "youtu.be",
+        "googlevideo.com",
+        "ytimg.com",
+        "ggpht.com",
+        "youtubei.googleapis.com",
+        "youtube-nocookie.com"
+      ]
+    },
+    {
+      "name": "discord",
+      "enabled": true,
+      "domains": [
+        "discord.com",
+        "discord.gg",
+        "discordapp.com",
+        "discordapp.net",
+        "discord.media",
+        "gateway.discord.gg"
+      ]
+    },
+    {
+      "name": "instagram",
+      "enabled": true,
+      "domains": [
+        "instagram.com",
+        "cdninstagram.com",
+        "fbcdn.net"
+      ]
+    },
+    {
+      "name": "facebook",
+      "enabled": true,
+      "domains": [
+        "facebook.com",
+        "fb.com",
+        "fb.watch"
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "enabled": true,
+      "domains": [
+        "whatsapp.com",
+        "whatsapp.net"
+      ]
+    },
+    {
+      "name": "google-auth",
+      "enabled": true,
+      "domains": [
+        "accounts.google.com",
+        "oauth2.googleapis.com",
+        "ssl.gstatic.com",
+        "www.gstatic.com"
+      ]
+    },
+    {
+      "name": "google-ai",
+      "enabled": true,
+      "domains": [
+        "generativelanguage.googleapis.com",
+        "ai.google.dev",
+        "aistudio.google.com",
+        "gemini.google.com"
+      ]
+    }
+  ]
+}
