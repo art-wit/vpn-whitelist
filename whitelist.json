@@ -120,6 +120,19 @@
       ]
     },
     {
+      "name": "github",
+      "enabled": true,
+      "domains": [
+        "github.com",
+        "raw.githubusercontent.com",
+        "api.github.com",
+        "objects.githubusercontent.com",
+        "codeload.github.com",
+        "avatars.githubusercontent.com",
+        "github.githubassets.com"
+      ]
+    },
+    {
       "name": "telegram-native",
       "enabled": true,
       "ips": [
