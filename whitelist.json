@@ -3,6 +3,13 @@
   "updated": "2026-04-25",
   "groups": [
     {
+      "name": "btcvps",
+      "enabled": true,
+      "domains":[
+        "btcvps.com"
+      ]
+    },
+    {
       "name": "telegram",
       "enabled": true,
       "domains": [
