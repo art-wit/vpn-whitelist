@@ -41,6 +41,7 @@
       "enabled": true,
       "domains": [
         "claude.ai",
+        "claude.com",
         "anthropic.com",
         "api.anthropic.com",
         "cdn.anthropic.com",
