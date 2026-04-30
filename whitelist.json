@@ -141,6 +141,19 @@
       ]
     },
     {
+      "name": "ngrok",
+      "enabled": true,
+      "domains": [
+        "ngrok.com",
+        "ngrok.io",
+        "ngrok.app",
+        "ngrok.dev",
+        "ngrok-free.app",
+        "ngrok-free.dev",
+        "ngrok-agent.com"
+      ]
+    },
+    {
       "name": "meta",
       "enabled": true,
       "ips": [
