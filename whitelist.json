@@ -154,6 +154,15 @@
       ]
     },
     {
+      "name": "meteor",
+      "enabled": true,
+      "domains": [
+        "meteor.com",
+        "packosphere.com",
+        "atmospherejs.com"
+      ]
+    },
+    {
       "name": "meta",
       "enabled": true,
       "ips": [
