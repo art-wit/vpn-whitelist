@@ -3,6 +3,14 @@
   "updated": "2026-04-25",
   "groups": [
     {
+      "name": "gamemoney",
+      "enabled": true,
+      "domains": [
+        "gamemoney.com",
+        "gmauth.com"
+      ]
+    },
+    {
       "name": "btcvps",
       "enabled": true,
       "domains":[
