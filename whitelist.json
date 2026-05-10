@@ -7,7 +7,9 @@
       "enabled": true,
       "domains": [
         "gamemoney.com",
-        "gmauth.com"
+        "gmauth.com",
+        "gmpays.com",
+        "pay.gmpays.com"
       ]
     },
     {
